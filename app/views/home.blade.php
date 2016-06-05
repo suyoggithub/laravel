@@ -31,7 +31,7 @@
 
 		<!-- Banner -->
 			<section id="banner">
-				<h2>HofGURU</h2>
+				<h2>HofGURU(Bavaria)</h2>
 				<p><br /> </p>
 			</section>
 
@@ -46,7 +46,7 @@
 								</header>
 							</div>
 							<div class="6u$ 12u$(medium)">
-								<p>Hof is a town located on the banks of the Saale in the northeastern corner of the German state of Bavaria, in the Franconian region, at the Czech border and the forested Fichtelgebirge and Frankenwald upland regions.The town of Hof is enclosed by, but does not belong to the Bavarian district of Hof; it is nonetheless the district's administrative seat.</p>
+								<p>The Franconian region, at the Czech border and the forested Fichtelgebirge and Frankenwald upland regions.The town of Hof is enclosed by, but does not belong to the Bavarian district of Hof; it is nonetheless the district's administrative seat.</p>
 								<p>The town's most important work of art, the Hofer altar, dates from about 1465 and is exhibited in the Alte Pinakothek in Munich today. The Heidenreich organ in the parish church of St. Michaelis, completed in 1834, is considered one of Bavaria's finest.<p>
 							</div>
 						</div>
