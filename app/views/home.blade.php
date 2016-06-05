@@ -31,7 +31,7 @@
 
 		<!-- Banner -->
 			<section id="banner">
-				<h2>HofGURU</h2>
+				<h2>HofGURU(Bavaria)</h2>
 				<p><br /> </p>
 			</section>
 
@@ -57,7 +57,7 @@
 				<section id="two" class="wrapper style2 special">
 					<div class="container">
 						<header class="major">
-							<h2>Untreusee</h2>
+							<h2>Untreusee(Hof)</h2>
 							<p>a reservoir in the south of the city of Hof in Bavaria. The lake is mainly for tourism and recreation. The flood protection in the winter and low water levels in the fall for the Saale play a supporting role.</p>
 						</header>
 						<div class="row 150%">
