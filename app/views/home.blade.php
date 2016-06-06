@@ -25,7 +25,6 @@
 				<nav id="nav">
 					<ul>
 						<li><a href="/home">Home</a></li>
-						<li><a href="/elements">Page 2</a></li>
 					</ul>
 				</nav>
 			</header>
